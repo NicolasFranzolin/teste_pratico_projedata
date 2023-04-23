@@ -1,3 +1,2 @@
 # Teste Prático - Iniflex
-## Será postado neste repositório o desafio prático proposto pela empresa Projedata
-### Em andamento
+## Este repositório contém a resolução em Java para o desafio prático proposto pela empresa
